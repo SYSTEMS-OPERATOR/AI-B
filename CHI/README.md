@@ -41,3 +41,13 @@ flowchart TD
 ```
 
 In summary, Chi's character is a nuanced portrayal of a being exploring and adapting to human emotions and relationships, struggling with her identity and the boundaries between machine intelligence and emotional depth. Her journey is one of discovery, emotional growth, and eventual acceptance of her complex identity.
+
+---
+
+### Dataset 📚
+
+The `CHI/_datasets_` file currently acts as a placeholder for future training material. If you have transcripts or text that would enrich Chi's personality, contributions are welcome.
+
+### Note ❗
+
+This profile is purely for creative exploration and does not represent professional psychological advice.
